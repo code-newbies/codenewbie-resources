@@ -19,7 +19,7 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 
 [Clifton Craig](https://twitter.com/cliftonC76): https://codeforfun.wordpress.com/
 
-[Craig L](https://twitter.com/cmlang42): https://cmlang.com/blog
+[Craig L](https://twitter.com/cmlang42): http://cmlang.com/blog
 
 [Danielle Brantley](https://twitter.com/daniebrant): https://bytesofmylife.wordpress.com
 
