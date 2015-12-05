@@ -1,7 +1,6 @@
-On Thursday, December 3rd the CodeNewbie Twitter chat asked CodeNewbies to post their blogs.
+On the [Write, Speak, Code CodeNewbie Twitter chat](https://storify.com/CodeNewbies/writing-speaking-coding) CodeNewbies were asked to post their blogs.
 
-Below is a list of CodeNewbie blogs.  If you would like to add your blog or modify your entry, please
-feel free to contact me or submit a pull request.
+Below is a list of CodeNewbie blogs.  If you would like to add your blog or modify your entry, please feel free to contact me or submit a pull request.
 
 
 ## List of CodeNewbie Blogs
