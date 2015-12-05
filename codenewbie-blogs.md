@@ -33,9 +33,7 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 
 [MegaCartridge](https://twitter.com/megacartridge): https://megacartridge.wordpress.com
 
-[Michael Strack](https://twitter.com/mixtrak): http://howiscience.tumblr.com/post/133487530604/safe-linux-for-the-relatively-clueless
-
-[Michael Strack](https://twitter.com/mixtrak): https://www.livecoding.tv/mixtrak/
+[Michael Strack](https://twitter.com/mixtrak): http://howiscience.tumblr.com/
 
 [Olu v2.2.1](https://twitter.com/oluoluoxenfree): http://www.opentagclosetag.com/
 
