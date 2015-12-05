@@ -21,6 +21,8 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 
 [Danielle Brantley](https://twitter.com/daniebrant): https://bytesofmylife.wordpress.com
 
+[hogihung](https://twitter.com/hogihung): http://ognt.io
+
 [Jamal Hansen](https://twitter.com/jamahans): http://jamalhansen.com
 
 [Kim Crayton](https://twitter.com/KimCrayton1): http://www.techtalkfornontechies.com/lessons-in-javascript-stop-lying-to-newbies/
@@ -39,6 +41,5 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 
 [Transition](https://twitter.com/Transition): http://kojoidrissa.com/
 
-[hogihung](https://twitter.com/hogihung): http://ognt.io
 
 
