@@ -41,5 +41,24 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 
 [Transition](https://twitter.com/Transition): http://kojoidrissa.com/
 
+## Tiffany White's Information
+
+Thanks for having a centralized repo of all the code newbie links!
+
+Here are mine:
+
+[Code Newbie In Pittsburgh](http://helloburgh.me)
+
+[JavaScript, In Progress](https://twhite96.github.io)
+
+[This Developer's Journey Podcast](http://thisdevsjourney.com)
+
+[Medium](https://medium.com/@TiffanyW_412)
+
+and lastly, I just signed up for Livecoding tv.
+
+[Livecoding TV](https://www.livecoding.tv/twhite96/)
+
+I'm **everywhere**. Add what you feel is necessary. Thanks!
 
 
