@@ -27,6 +27,8 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 
 [Jamal Hansen](https://twitter.com/jamahans): http://jamalhansen.com
 
+[Jonathan Colon](https://twitter.com/jvcode): http://johnnysjourneys.com
+
 [Kim Crayton](https://twitter.com/KimCrayton1): http://www.techtalkfornontechies.com/lessons-in-javascript-stop-lying-to-newbies/
 
 [Matthew Jones](https://twitter.com/ExceptionFound): http://www.exceptionnotfound.net
