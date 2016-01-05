@@ -5,6 +5,7 @@ A number of CodeNewbies have commited to learning clojure, and are using [4cloju
 | [CodeNewbie Slack](https://codenewbie.slack.com) Username | [4clojure](http://www.4clojure.com/) User Page |
 | ----------------------------------------- | --------------------------------------------------------- |
 | degustaf | http://www.4clojure.com/user/degustaf |
+| iref | http://www.4clojure.com/user/iref |
 | jamal | http://www.4clojure.com/user/jamalhansen |
 | joseph_rex | http://www.4clojure.com/user/bl4ckdu5t |
 | jvcode | http://www.4clojure.com/user/jvcode |
