@@ -5,6 +5,8 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 
 ## List of CodeNewbie Blogs
 
+[Haley Elder] (https://twitter.com/haley_elder): http://www.haleyelder.com/blog
+
 [Alan W. Smith](https://twitter.com/TheIdOfAlan): http://alanwsmith.com
 
 [Aleia Walker](https://twitter.com/MsAleia): http://aleiawalker.com/blog/
