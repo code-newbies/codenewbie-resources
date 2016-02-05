@@ -1,0 +1,127 @@
+To list all available commands enter "/?".
+Derek Gustafson joined group chat.
+Allison Craft joined group chat.
+Jay Miller joined group chat.
+Jonathan Colon joined group chat.
+Jonathan Colon
+8:06 PM
+Look at those paintings
+Derek Gustafson
+8:07 PM
+http://shownoter.co/
+me
+8:09 PM
+Lol, yes Jonathan!
+Jonathan Colon
+8:09 PM
+:D
+make trans is beautiful'
+me
+8:15 PM
+hmmm.. just wrote a chat text that didn't show up in the group chat
+let's try again
+Allison - Re github we can review before we start the project
+Jonathan Colon
+8:17 PM
+git --blame --force
+Jay Miller
+8:18 PM
+git force push
+Derek Gustafson
+8:18 PM
+https://git-scm.com/docs/git-blame
+Jonathan Colon
+8:18 PM
+PythonFlies
+me
+8:19 PM
+https://twitter.com/cmlang42/status/685271117053976576
+We like to tease Jay because he has experienced some trauma with Ruby and JS
+Jonathan Colon
+8:24 PM
+I enjoyed that book
+me
+8:24 PM
+I learned Python with that book
+Derek Gustafson
+8:29 PM
+http://www.thecolor.com/
+Jay Miller
+8:29 PM
+https://itunes.apple.com/us/app/pigment-only-true-coloring/id1062006344?mt=8
+me
+8:30 PM
+https://github.com/code-newbies/python-thursday-adventure-2
+Jonathan Colon
+8:35 PM
+Domino game is failing
+Jay Miller
+8:44 PM
+https://blab.im
+Jonathan Colon
+8:45 PM
+Down with Safari
+me
+8:47 PM
+http://jamalhansen.com/feeds/all.atom.xml
+https://github.com/jamalhansen/codenewbie-resources
+Jay Miller
+8:55 PM
+brb
+Jonathan Colon
+8:57 PM
+Hack Shownoter
+Ed Solis joined group chat.
+Allison Craft
+9:22 PM
+Ahhh I have to go but I'll def be back for the next chat if I'm welcome :) gonna get my life together and figure out GitHub haha. Nice to meet you guys!
+Jay Miller
+9:22 PM
+Absolutely. it was fun see you next week!
+Jonathan Colon
+9:22 PM
+Nice to meet you too. You're always welcome back :)
+Allie Craft left group chat.
+Jay Miller
+9:23 PM
+I think I'm going to go bowling after this
+Ed Solis
+9:23 PM
+Hi guys, I'm new, so I'm just going to watch if you guys don't mind
+Jay Miller
+9:23 PM
+relieves stress
+Jonathan Colon
+9:24 PM
+No problem Ed
+Jay Miller
+9:24 PM
+We are goofing off at the moment
+glob of thing
+DO DING
+https://www.youtube.com/watch?v=GD6qtc2_AQA
+https://www.youtube.com/watch?v=aI0euMFAWF8
+Jay Miller left group chat.
+Ed Solis
+10:06 PM
+Thanks!
+me
+10:06 PM
+:D
+Ed Solis
+10:07 PM
+I think I got up to the pickle one and stopped
+Jonathan Colon
+10:07 PM
+The pickle one was a little hard
+I got up to zip file
+Ed Solis
+10:08 PM
+How's Living Clojure?
+Jonathan Colon
+10:08 PM
+It's very good
+It's very informative Ed
+Derek Gustafson
+10:17 PM
+http://www.paulgraham.com/avg.html

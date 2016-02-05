@@ -1,0 +1,99 @@
+LIVE
+Jocelyn Jeriah
+5 participants
+LIVE
+Python Thursday - January 14, 2016
+0 viewers
+Group chat
+To list all available commands enter "/?".
+Jay Miller joined group chat.
+Derek Gustafson joined group chat.
+Chris Clifton joined group chat.
+Steve Gregg joined group chat.
+Jay Miller
+8:20 PM
+Link in chat plas
+pls
+me
+8:21 PM
+
+https://github.com/sgregg85/exifDateSync
+#SaveJay
+Jocelyn Jeriah joined group chat.
+me
+8:28 PM
+Hi Jocelyn
+Jay Miller
+8:32 PM
+https://gist.github.com/kjaymiller/d88ea1b588f35ec9419b
+Jay Miller left group chat.
+Jay Miller joined group chat.
+Derek Gustafson
+8:32 PM
+http://www.pythonchallenge.com/
+me
+8:32 PM
+http://www.pythonchallenge.com/
+Jay Miller
+8:32 PM
+https://gist.github.com/kjaymiller/d88ea1b588f35ec9419b
+me
+8:32 PM
+lol
+you already posted it
+Derek Gustafson
+8:33 PM
+http://www.google.com/foobar/
+Jay Miller
+8:39 PM
+http://www.commitstrip.com/en/2016/01/14/a-story-about-timestamp-and-timezone/
+Derek Gustafson
+8:41 PM
+https://youtu.be/-5wpm-gesOY
+Steve Gregg
+8:43 PM
+I had to get familiar with timestamps too doing my script this week. The OS stores the file modified date in epoch and the exif date is a regular date
+me
+8:44 PM
+Nice, so you worked with epoch date too
+Steve Gregg
+8:44 PM
+I wrote functions to convert between the two
+me
+8:44 PM
+I think that is where I saw it :)
+Chris Clifton
+8:48 PM
+BRB
+Derek Gustafson
+8:49 PM
+http://www.snarky.ca/the-history-behind-the-decision-to-move-python-to-github
+Jay Miller left group chat.
+Jay Miller joined group chat.
+Jocelyn Jeriah joined group chat.
+Jocelyn Jeriah left group chat.
+Jocelyn Jeriah
+8:59 PM
+ok on my laptop now, just fyi
+Chris Clifton
+9:01 PM
+Have to drop to run to the train station. Will try to re-connect when I get back.
+Chris Clifton left group chat.
+Jay Miller left group chat.
+Jay Miller joined group chat.
+Jay Miller
+9:04 PM
+having some congestion problems. I"m going to head out
+don't forget the shownotes!!!!
+Jay Miller left group chat.
+Chris Clifton joined group chat.
+me
+9:32 PM
+http://exercism.io/submissions/8c1c4ff866eb408f911bc3eca3f6e8ee
+http://exercism.io/submissions/115c6ecbf9884a66bcfbc0b43e38aa09
+Derek Gustafson
+9:37 PM
+https://docs.docker.com/v1.8/installation/mac/
+Jocelyn Jeriah
+9:45 PM
+https://c9.io/
