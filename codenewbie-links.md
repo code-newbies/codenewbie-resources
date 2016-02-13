@@ -125,6 +125,9 @@ http://jamalhansen.com
 ![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
 http://jamalhansen.com/feeds/all.atom.xml
 
+![Livestream](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/video.png)
+https://www.livecoding.tv/jamal/
+
 ### Jonathan Colon
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
 https://twitter.com/jvcode
@@ -235,7 +238,7 @@ https://medium.com/feed/@TiffanyW_412
 ![Podcast](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/podcast.png)
 http://thisdevsjourney.com
 
-![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/video.png)
+![Livestream](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/video.png)
 https://www.livecoding.tv/twhite96/
 
 
