@@ -6,11 +6,27 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 ## List of CodeNewbie Blogs
 
 ### Alan W. Smith
-![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)[@TheIdOfAlan](https://twitter.com/TheIdOfAlan)
-![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png) http://alanwsmith.com
-![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/rss.png) http://alanwsmith.com/feed.xml
 
-[Aleia Walker](https://twitter.com/MsAleia): http://aleiawalker.com/blog/
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/TheIdOfAlan
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://alanwsmith.com
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/rss.png)
+http://alanwsmith.com/feed.xml
+
+
+### Aleia Walker
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/MsAleia
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://aleiawalker.com/blog/
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/rss.png)
+http://aleiawalker.com/blog/feed/
+
 
 [Annyce Davis](https://twitter.com/brwngrldev): http://www.adavis.info/
 
