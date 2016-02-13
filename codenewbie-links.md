@@ -136,7 +136,7 @@ https://twitter.com/jvcode
 http://johnnysjourneys.com
 
 ![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
-johnnysjourneys.com/feeds/all.atom.xml
+http://johnnysjourneys.com/feeds/all.atom.xml
 
 ### Joseph Rex
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
