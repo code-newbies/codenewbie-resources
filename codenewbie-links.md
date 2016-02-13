@@ -5,9 +5,10 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 
 ## List of CodeNewbie Blogs
 
-[Haley Elder] (https://twitter.com/haley_elder): http://www.haleyelder.com/blog
-
-[Alan W. Smith](https://twitter.com/TheIdOfAlan): http://alanwsmith.com
+### Alan W. Smith
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)[@TheIdOfAlan](https://twitter.com/TheIdOfAlan)
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png) http://alanwsmith.com
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/rss.png) http://alanwsmith.com/feed.xml
 
 [Aleia Walker](https://twitter.com/MsAleia): http://aleiawalker.com/blog/
 
@@ -24,6 +25,8 @@ Below is a list of CodeNewbie blogs.  If you would like to add your blog or modi
 [Craig L](https://twitter.com/cmlang42): http://cmlang.com/blog
 
 [Danielle Brantley](https://twitter.com/daniebrant): https://bytesofmylife.wordpress.com
+
+[Haley Elder] (https://twitter.com/haley_elder): http://www.haleyelder.com/blog
 
 [hogihung](https://twitter.com/hogihung): http://ognt.io
 
