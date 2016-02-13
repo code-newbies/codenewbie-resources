@@ -38,48 +38,206 @@ http://www.adavis.info/
 ![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
 http://feeds.feedburner.com/TechyInfo
 
-[Ben Halpern](https://twitter.com/bhalp1): https://medium.com/@bhalp1
+### Ben Halpern
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/bhalp1
 
-[Brittany](https://twitter.com/alicia_dumas): https://bytesofmylife.wordpress.com
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+https://medium.com/@bhalp1
 
-[Christina M.](https://twitter.com/divinetechygirl): http://www.codenewbie.org/blogs/i-am-christina
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+https://medium.com/feed/@bhalp1
 
-[Clifton Craig](https://twitter.com/cliftonC76): https://codeforfun.wordpress.com/
+### Brittany
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/alicia_dumas
 
-[Craig L](https://twitter.com/cmlang42): http://cmlang.com/blog
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+https://bytesofmylife.wordpress.com
 
-[Danielle Brantley](https://twitter.com/daniebrant): https://bytesofmylife.wordpress.com
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+https://bytesofmylife.wordpress.com/feed/
 
-[Haley Elder] (https://twitter.com/haley_elder): http://www.haleyelder.com/blog
+### Christina M.
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/divinetechygirl
 
-[hogihung](https://twitter.com/hogihung): http://ognt.io
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://www.codenewbie.org/blogs/i-am-christina
 
-[Jamal Hansen](https://twitter.com/jamahans): http://jamalhansen.com
+### Clifton Craig
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/cliftonC76
 
-[Jonathan Colon](https://twitter.com/jvcode): http://johnnysjourneys.com
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+https://codeforfun.wordpress.com/
 
-[Joseph Rex](http://twitter.com/joerex101): http://josephrex.me
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+https://codeforfun.wordpress.com/feed/
 
-[Kim Crayton](https://twitter.com/KimCrayton1): http://www.techtalkfornontechies.com/lessons-in-javascript-stop-lying-to-newbies/
+### Craig L
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/cmlang42
 
-[Matthew Jones](https://twitter.com/ExceptionFound): http://www.exceptionnotfound.net
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://cmlang.com/blog
 
-[MegaCartridge](https://twitter.com/megacartridge): https://megacartridge.wordpress.com
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://www.cmlang.com/blog/feed/
 
-[Michael Strack](https://twitter.com/mixtrak): http://howiscience.tumblr.com/
+### Danielle Brantley
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/daniebrant
 
-[Olu v2.2.1](https://twitter.com/oluoluoxenfree): http://www.opentagclosetag.com/
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+https://bytesofmylife.wordpress.com
 
-[Saron](https://twitter.com/saronyitbarek): http://www.codenewbie.org/blogs/my-bootcamp-experience
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+https://bytesofmylife.wordpress.com/feed/
 
-[Transition](https://twitter.com/Transition): http://kojoidrissa.com/
+### Haley Elder
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/haley_elder
 
-Tiffany White
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://www.haleyelder.com/blog
 
-* [Code Newbie In Pittsburgh](http://helloburgh.me)
-* [JavaScript, In Progress](https://twhite96.github.io)
-* [This Developer's Journey Podcast](http://thisdevsjourney.com)
-* [Medium](https://medium.com/@TiffanyW_412)
-* [Livecoding TV](https://www.livecoding.tv/twhite96/)
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://haleyelder.com/blog/feed/
+
+### hogihung
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/hogihung
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://ognt.io
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://ognt.io/feed?format=rss
+
+### Jamal Hansen
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/jamahans
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://jamalhansen.com
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://jamalhansen.com/feeds/all.atom.xml
+
+### Jonathan Colon
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/jvcode
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://johnnysjourneys.com
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+johnnysjourneys.com/feeds/all.atom.xml
+
+### Joseph Rex
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+http://twitter.com/joerex101
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://josephrex.me
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://josephrex.me/feed.xml
+
+### Kim Crayton
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/KimCrayton1
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://www.techtalkfornontechies.com/
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://www.techtalkfornontechies.com/feed/
+
+### Matthew Jones
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/ExceptionFound
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://www.exceptionnotfound.net
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://feeds.feedburner.com/ExceptionNotFound
+
+### MegaCartridge
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/megacartridge
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+https://megacartridge.wordpress.com
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+https://megacartridge.wordpress.com/feed/
+
+### Michael Strack
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/mixtrak
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://howiscience.tumblr.com/
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://howiscience.tumblr.com/rss
+
+### Olu v2.2.1
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/oluoluoxenfree
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://www.opentagclosetag.com/
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://feeds.feedburner.com/openTagCloseTag
+
+### Saron
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/saronyitbarek
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://www.codenewbie.org/blogs/my-bootcamp-experience
+
+
+### Transition
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/Transition
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://kojoidrissa.com/
+
+### Tiffany White
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/tiffanyw_412
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://helloburgh.me
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://helloburgh.me/feed/
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+https://twhite96.github.io
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://twhite96.github.io/feed
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+https://medium.com/@TiffanyW_412
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+https://medium.com/feed/@TiffanyW_412
+
+![Podcast](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/podcast.png)
+http://thisdevsjourney.com
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/video.png)
+https://www.livecoding.tv/twhite96/
+
+
 
 
