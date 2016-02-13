@@ -13,7 +13,7 @@ https://twitter.com/TheIdOfAlan
 ![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
 http://alanwsmith.com
 
-![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/rss.png)
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
 http://alanwsmith.com/feed.xml
 
 
@@ -24,11 +24,19 @@ https://twitter.com/MsAleia
 ![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
 http://aleiawalker.com/blog/
 
-![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/rss.png)
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
 http://aleiawalker.com/blog/feed/
 
 
-[Annyce Davis](https://twitter.com/brwngrldev): http://www.adavis.info/
+### Annyce Davis
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/brwngrldev
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://www.adavis.info/
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://feeds.feedburner.com/TechyInfo
 
 [Ben Halpern](https://twitter.com/bhalp1): https://medium.com/@bhalp1
 
