@@ -206,6 +206,17 @@ https://twitter.com/saronyitbarek
 http://www.codenewbie.org/blogs/my-bootcamp-experience
 
 
+### Steven W. Klassen
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/mrxinu
+
+![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://mrxinu.com/
+
+![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
+http://mrxinu.com/feed
+
+
 ### Transition
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
 https://twitter.com/Transition
