@@ -1,5 +1,11 @@
-#2016-01-07 Python Thursday Shownotes
+# 2016-01-07 Python Thursday Shownotes
 Python Thursday Shownotes for 1/7/2016
+
+## Video
+Click image to view on YouTube
+
+[![Python Thursday Hangout Video](http://img.youtube.com/vi/zFbv49NhvnE/0.jpg)](http://www.youtube.com/watch?v=zFbv49NhvnE)
+
 ##Links
 * [Shownoter.co - Beta](http://shownoter.co/)
 * [Git - git-blame Documentation](https://git-scm.com/docs/git-blame)

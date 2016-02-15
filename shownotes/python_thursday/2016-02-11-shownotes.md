@@ -1,10 +1,11 @@
 # Python Thursday Hangout - 2/11/2016
-##Video
+
+## Video
 Click image to view on YouTube
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6bSe50lxwHA/0.jpg)](http://www.youtube.com/watch?v=6bSe50lxwHA)
+[![Python thursday Hangout Video](http://img.youtube.com/vi/6bSe50lxwHA/0.jpg)](http://www.youtube.com/watch?v=6bSe50lxwHA)
 
-##Links
+## Links
 * [PyFormat: Using % and .format() for great good!](https://pyformat.info/)
 * ![](http://treasure.diylol.com/uploads/post/image/603202/resized_the-most-interesting-man-in-the-world-meme-generator-i-don-t-always-test-my-code-but-when-i-do-it-s-always-in-production-7fe4e7.jpg)
 * [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com/)

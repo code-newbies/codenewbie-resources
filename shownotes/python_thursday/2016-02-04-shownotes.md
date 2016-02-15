@@ -1,5 +1,11 @@
 #Python Thursday - 2/4/2016
 Shownotes for CodeNewbie Python Thursday on February 4, 2016
+
+## Video
+Click image to view on YouTube
+
+[![Python Thursday Hangout Video](http://img.youtube.com/vi/If92WtcLkBs/0.jpg)](http://www.youtube.com/watch?v=If92WtcLkBs)
+
 ##Links
 * [exercism.io](http://exercism.io/submissions/b0bfe0ca5ed64330a5a7c05f0874e846)
 * [Koding for Teams | Configure any development environment in one click](https://koding.com/)

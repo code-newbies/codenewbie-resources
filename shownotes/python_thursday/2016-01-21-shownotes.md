@@ -1,5 +1,11 @@
 #2016-01-21 Python Thursday
 Shownotes for Python Thursday for 1/21/2016
+
+## Video
+Click image to view on YouTube
+
+[![Python Thursday Hangout Video](http://img.youtube.com/vi/oXmrMb1uFCw/0.jpg)](http://www.youtube.com/watch?v=oXmrMb1uFCw)
+
 ##Links
 * [Apprenticeship Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
 * [YouTube](https://www.youtube.com/watch?v=rmscokjg3aq)

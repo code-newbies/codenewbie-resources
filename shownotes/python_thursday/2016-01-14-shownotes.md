@@ -1,5 +1,11 @@
 #2016-01-14 Python Thursday
 Checking out Exercism and other Python stuff
+
+## Video
+Click image to view on YouTube
+
+[![Python Thursday Hangout Video](http://img.youtube.com/vi/sSQt3m8tBak/0.jpg)](http://www.youtube.com/watch?v=sSQt3m8tBak)
+
 ##Links
 * [sgregg85/exifDateSync - Python - GitHub](https://github.com/sgregg85/exifdatesync)
 * [nginx config now working for shownoter.co · GitHub](https://gist.github.com/kjaymiller/d88ea1b588f35ec9419b)

@@ -1,5 +1,11 @@
 #2016-01-28 Python Thursday
 Shownotes from Python Thursday on 2016/01/28
+
+## Video
+Click image to view on YouTube
+
+[![Python Thursday Hangout Video](http://img.youtube.com/vi/IrWTboMfD_k/0.jpg)](http://www.youtube.com/watch?v=IrWTboMfD_k)
+
 ##Links
 * [exercism.io](http://exercism.io/)
 * [dotfiles/.tmux.conf at master · moeabdol/dotfiles · GitHub](https://github.com/moeabdol/dotfiles/blob/master/.tmux.conf)
