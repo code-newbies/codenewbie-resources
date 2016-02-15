@@ -2,6 +2,7 @@
 Apprenticeship patterns, chapter 2 from 1/26/2016
 ## Video
 Click image to view on YouTube
+
 [![Apprenticeship Patterns Chapter 2](http://img.youtube.com/vi/cK8EPe97XH0/0.jpg)](http://www.youtube.com/watch?v=cK8EPe97XH0)
 
 ##Links

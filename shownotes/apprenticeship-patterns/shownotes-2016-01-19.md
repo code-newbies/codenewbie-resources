@@ -2,6 +2,7 @@
 Links from the first week of the Apprenticeship Patterns Book Club on CodeNewbie.
 ## Video
 Click image to view on YouTube
+
 [![Apprenticeship Patterns Chapter 1](http://img.youtube.com/vi/RMsCOKjg3AQ/0.jpg)](http://www.youtube.com/watch?v=RMsCOKjg3AQ)
 
 ## Links

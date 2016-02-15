@@ -2,6 +2,7 @@
 Chapter 3 of Apprenticeship Patterns #CodeNewbie book club 2/2/2016
 ## Video
 Click image to view on YouTube
+
 [![Apprenticeship Patterns Chapter 3](http://img.youtube.com/vi/P3IERXuvOsc/0.jpg)](http://www.youtube.com/watch?v=P3IERXuvOsc)
 
 ##Links

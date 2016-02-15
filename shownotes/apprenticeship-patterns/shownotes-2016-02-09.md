@@ -3,6 +3,7 @@ Chapter 4 of Apprenticeship Patterns #CodeNewbie book club 2/9/2016
 
 ## Video
 Click image to view on YouTube
+
 [![Apprenticeship Patterns Chapter 4](http://img.youtube.com/vi/Nx7HQYRkVr8/0.jpg)](http://www.youtube.com/watch?v=Nx7HQYRkVr8)
 
 
