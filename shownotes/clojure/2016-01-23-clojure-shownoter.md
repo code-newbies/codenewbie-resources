@@ -1,5 +1,11 @@
 #Exploring Clojure 1/23/2016
 Exploring Clojure Shownotes
+
+## Video
+Click image to view on YouTube
+
+[![Exploring Clojure Hangout Video](http://img.youtube.com/vi/jUZbg2-yvVs/0.jpg)](http://www.youtube.com/watch?v=jUZbg2-yvVs)
+
 ##Links
 * [assert - clojure.core | ClojureDocs - Community-Powered Clojure Documentation and Examples](https://clojuredocs.org/clojure.core/assert)
 * [join - clojure.set | ClojureDocs - Community-Powered Clojure Documentation and Examples](https://clojuredocs.org/clojure.set/join)

@@ -1,6 +1,13 @@
-#Exploring Clojure 1/8/2016
+# Exploring Clojure 1/8/2016
 Impromptu hangout to explore Clojure
-##Links
+
+## Video
+Click image to view on YouTube
+
+[![Exploring Clojure Hangout Video](http://img.youtube.com/vi/q6s6knznIS4/0.jpg)](http://www.youtube.com/watch?v=q6s6knznIS4)
+
+
+## Links
 * [xkcd: Random Number](https://xkcd.com/221/)
 * [Ruby Currying | Khelll's Blog](http://blog.khd.me/ruby/ruby-currying/)
 * [Try Clojure](http://www.tryclj.com/)

@@ -1,5 +1,11 @@
 #Exploring Clojure - 2/5/2016
 Exploring Clojure on 2/5/2016
+
+## Video
+Click image to view on YouTube
+
+[![Exploring Clojure Hangout Video](http://img.youtube.com/vi/S6Ky8iJxgvs/0.jpg)](http://www.youtube.com/watch?v=S6Ky8iJxgvs)
+
 ##Links
 * [PyPractice/coke.py at master · jcode89/PyPractice · GitHub](https://github.com/jcode89/pypractice/blob/master/coke.py)
 * [Flavors — Lake Effect Artisan Ice Cream](http://www.lakeeffecticecream.com/flavors/)
