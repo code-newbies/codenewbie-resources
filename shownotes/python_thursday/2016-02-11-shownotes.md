@@ -1,4 +1,7 @@
 #Python Thursday Hangout
+##Video
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/6bSe50lxwHA/0.jpg)](http://www.youtube.com/watch?v=6bSe50lxwHA)
+
 ##02/11/2016 ShowNotes
 ##Links
 * [PyFormat: Using % and .format() for great good!](https://pyformat.info/)
