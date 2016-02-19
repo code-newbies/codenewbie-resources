@@ -1,5 +1,10 @@
 #Python Thursday - 2/18/2016
 Python Thursday for February 18, 2016
+## Video
+Click to view video
+
+[![Python Thursday Video](http://img.youtube.com/vi/6k4aZmoUAsY/0.jpg)](http://www.youtube.com/watch?v=6k4aZmoUAsY)
+
 ##Links
 * [Shownoter.co - Beta](http://www.shownoter.co/about)
 * [Yahoo](https://www.yahoo.com/)
