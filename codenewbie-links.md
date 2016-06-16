@@ -140,7 +140,7 @@ http://johnnysjourneys.com/feeds/all.atom.xml
 
 ### Joseph Rex
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
-http://twitter.com/joerex101
+http://twitter.com/josephrexme
 
 ![Blog](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
 http://josephrex.me
